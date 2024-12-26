@@ -1,0 +1,19 @@
+{
+  "name": "time-tracker-chrome-extension",
+  "version": "1.0.0",
+  "description": "A simple yet powerful Chrome extension that tracks the amount of time you spend on different websites. Gain insights into your browsing habits and improve your productivity by identifying distractions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
